@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.5.2, 2024-11-25T10:31:37. -->
+<!-- Written by QtCreator 4.5.2, 2024-08-23T08:53:58. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{b2e16d47-836f-4201-ae3a-eb5745ca5b84}</value>
+  <value type="QByteArray">{e4367d01-8c40-488b-bee4-2292548fcb50}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -61,12 +61,12 @@
   <valuemap type="QVariantMap">
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop</value>
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop</value>
-   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{e4791303-fc2d-4554-b1ac-949ab0492af1}</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">{fc470acd-4b0e-43fa-9aa3-d690f7b5860a}</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">1</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/tiago/code/GLUTdoZero20241T01A/run</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/rubens/Desktop/Link to professor ufc quixada/Ensino/2024_1/disciplinas/computacao grafica/dropbox alunos/exemplos/00_projeto inicial com camera/GLUTdoZero20241T01A/run</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -126,7 +126,7 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.1">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/tiago/code/GLUTdoZero20241T01A/run</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/rubens/Desktop/Link to professor ufc quixada/Ensino/2024_1/disciplinas/computacao grafica/dropbox alunos/exemplos/00_projeto inicial com camera/GLUTdoZero20241T01A/run</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -186,7 +186,7 @@
     <value type="bool" key="Qt4ProjectManager.Qt4BuildConfiguration.UseShadowBuild">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.2">
-    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/tiago/code/GLUTdoZero20241T01A/run</value>
+    <value type="QString" key="ProjectExplorer.BuildConfiguration.BuildDirectory">/home/rubens/Desktop/Link to professor ufc quixada/Ensino/2024_1/disciplinas/computacao grafica/dropbox alunos/exemplos/00_projeto inicial com camera/GLUTdoZero20241T01A/run</value>
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
      <valuemap type="QVariantMap" key="ProjectExplorer.BuildStepList.Step.0">
       <value type="bool" key="ProjectExplorer.BuildStep.Enabled">true</value>
@@ -304,13 +304,13 @@
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">GLUTdoZero20241</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/tiago/code/GLUTdoZero20241T01A/GLUTdoZero20241.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:/home/rubens/Desktop/Link to professor ufc quixada/Ensino/2024_1/disciplinas/computacao grafica/dropbox alunos/exemplos/00_projeto inicial com camera/GLUTdoZero20241T01A/GLUTdoZero20241.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">GLUTdoZero20241.pro</value>
     <value type="bool" key="Qt4ProjectManager.Qt4RunConfiguration.UseDyldImageSuffix">false</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory"></value>
-    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/home/tiago/code/GLUTdoZero20241T01A/run</value>
+    <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.UserWorkingDirectory.default">/home/rubens/Desktop/Link to professor ufc quixada/Ensino/2024_1/disciplinas/computacao grafica/dropbox alunos/exemplos/00_projeto inicial com camera/GLUTdoZero20241T01A/run</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
